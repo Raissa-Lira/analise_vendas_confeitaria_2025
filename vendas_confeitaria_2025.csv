@@ -1,0 +1,651 @@
+venda_id,data_venda,cliente_nome,produto,categoria,quantidade,preco_unitario,pagamento,cidade
+1,2025-02-21,Marcos Vinicius Nunes,Bolo de Chocolate,Bolos,1,38.0,Dinheiro,São Gonçalo
+2,2025-02-03,Evelyn Souza,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Rio de Janeiro
+3,2025-04-15,Luiz Henrique da Mata,Bolo de Chocolate,Bolos,5,38.0,Pix,Rio de Janeiro
+4,2025-04-07,Emilly Araújo,Bolo de Cenoura,Bolos,1,35.0,Cartão,Niterói
+5,2025-04-09,Júlia Azevedo,Bolo de Cenoura,Bolos,5,35.0,Cartão,Nova Iguaçu
+6,2025-01-19,Vicente Vieira,Kit Festa Pequeno,Kits,2,120.0,Pix,Nova Iguaçu
+7,2025-04-20,Marina da Cunha,Torta de Limão,Tortas,1,40.0,Cartão,Duque de Caxias
+8,2025-04-16,Vicente Pinto,Torta de Morango,Tortas,3,42.0,Cartão,Niterói
+9,2025-01-29,Ana Sophia Peixoto,Torta de Morango,Tortas,1,42.0,Cartão,Duque de Caxias
+10,2025-04-08,Gabriela Dias,Bolo de Chocolate,Bolos,3,38.0,Pix,Nova Iguaçu
+11,2025-02-07,Pietra Sales,Torta de Limão,Tortas,1,40.0,Dinheiro,Duque de Caxias
+12,2025-03-16,Lívia Fogaça,Bolo de Chocolate,Bolos,4,38.0,Cartão,Nova Iguaçu
+13,2025-01-29,Nina Pereira,Torta de Limão,Tortas,5,40.0,Pix,Nova Iguaçu
+14,2025-01-17,Clara Moura,Brigadeiro Gourmet,Doces,1,3.5,Cartão,Niterói
+15,2025-03-21,Murilo Cardoso,Torta de Limão,Tortas,1,40.0,Cartão,Rio de Janeiro
+16,2025-02-15,Noah Lopes,Kit Festa Pequeno,Kits,3,120.0,Pix,São Gonçalo
+17,2025-04-02,Elisa Moreira,Brownie,Doces,3,6.0,Pix,Niterói
+18,2025-03-09,Lorenzo Carvalho,Torta de Limão,Tortas,1,40.0,Dinheiro,Niterói
+19,2025-01-27,Diogo Gonçalves,Brigadeiro Gourmet,Doces,2,3.5,Pix,Duque de Caxias
+20,2025-04-20,Leonardo Pinto,Torta de Limão,Tortas,5,40.0,Cartão,São Gonçalo
+21,2025-05-04,Davi Lucas Cardoso,Bolo de Cenoura,Bolos,2,35.0,Cartão,São Gonçalo
+22,2025-03-07,Giovanna Farias,Kit Festa Pequeno,Kits,3,120.0,Cartão,Niterói
+23,2025-03-05,Giovanna Lopes,Torta de Morango,Tortas,2,42.0,Dinheiro,Duque de Caxias
+24,2025-02-10,Lucas Gabriel Correia,Kit Festa Pequeno,Kits,4,120.0,Cartão,São Gonçalo
+25,2025-01-26,Juan Barbosa,Brownie,Doces,2,6.0,Dinheiro,Nova Iguaçu
+26,2025-03-09,Clarice Rocha,Torta de Limão,Tortas,5,40.0,Pix,Nova Iguaçu
+27,2025-03-03,Cauê Santos,Kit Festa Pequeno,Kits,3,120.0,Cartão,Niterói
+28,2025-04-18,Alice Lopes,Kit Festa Médio,Kits,1,180.0,Cartão,Rio de Janeiro
+29,2025-01-22,Pedro Melo,Brownie,Doces,2,6.0,Dinheiro,Duque de Caxias
+30,2025-02-17,Isaac Gonçalves,Bolo de Chocolate,Bolos,4,38.0,Pix,Nova Iguaçu
+31,2025-01-21,Elisa da Rocha,Kit Festa Médio,Kits,5,180.0,Pix,Nova Iguaçu
+32,2025-03-20,Stephany Fogaça,Bolo de Cenoura,Bolos,1,35.0,Dinheiro,Nova Iguaçu
+33,2025-03-27,Lorena Porto,Torta de Limão,Tortas,3,40.0,Cartão,São Gonçalo
+34,2025-03-06,Igor Araújo,Kit Festa Pequeno,Kits,2,120.0,Pix,Rio de Janeiro
+35,2025-05-10,Larissa Almeida,Torta de Limão,Tortas,5,40.0,Cartão,Nova Iguaçu
+36,2025-01-28,Antônio Santos,Bolo de Chocolate,Bolos,3,38.0,Dinheiro,Nova Iguaçu
+37,2025-01-29,Thiago da Rosa,Brigadeiro Gourmet,Doces,2,3.5,Pix,Niterói
+38,2025-03-25,Pedro Henrique Lopes,Bolo de Cenoura,Bolos,5,35.0,Pix,Duque de Caxias
+39,2025-03-11,Ana Vitória Araújo,Bolo de Cenoura,Bolos,1,35.0,Pix,São Gonçalo
+40,2025-02-04,João Gabriel Cunha,Brigadeiro Gourmet,Doces,1,3.5,Cartão,Nova Iguaçu
+41,2025-02-14,Raquel da Mata,Bolo de Chocolate,Bolos,1,38.0,Dinheiro,Duque de Caxias
+42,2025-01-17,Pietra Peixoto,Bolo de Chocolate,Bolos,5,38.0,Cartão,Niterói
+43,2025-02-17,Júlia Gonçalves,Kit Festa Médio,Kits,5,180.0,Cartão,São Gonçalo
+44,2025-02-20,Lorenzo Correia,Kit Festa Pequeno,Kits,2,120.0,Dinheiro,Niterói
+45,2025-01-21,Rafaela Carvalho,Torta de Limão,Tortas,4,40.0,Dinheiro,São Gonçalo
+46,2025-03-10,Maitê Pereira,Kit Festa Médio,Kits,5,180.0,Pix,Rio de Janeiro
+47,2025-01-21,Ana Carolina Lima,Brigadeiro Gourmet,Doces,2,3.5,Cartão,São Gonçalo
+48,2025-01-17,Julia Pereira,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,Niterói
+49,2025-04-23,Kevin Nunes,Brigadeiro Gourmet,Doces,1,3.5,Cartão,Rio de Janeiro
+50,2025-01-13,André Azevedo,Brigadeiro Gourmet,Doces,1,3.5,Cartão,São Gonçalo
+51,2025-01-23,Ana Carolina Barbosa,Bolo de Chocolate,Bolos,5,38.0,Cartão,São Gonçalo
+52,2025-05-02,Ana Laura Correia,Kit Festa Médio,Kits,2,180.0,Dinheiro,Niterói
+53,2025-05-08,Isabella Nogueira,Kit Festa Médio,Kits,2,180.0,Pix,Duque de Caxias
+54,2025-02-01,Ryan Cavalcanti,Brigadeiro Gourmet,Doces,1,3.5,Cartão,Duque de Caxias
+55,2025-02-16,Igor das Neves,Torta de Morango,Tortas,4,42.0,Pix,Duque de Caxias
+56,2025-05-06,Kamilly Aragão,Bolo de Cenoura,Bolos,1,35.0,Cartão,Duque de Caxias
+57,2025-05-13,Cecília Costela,Torta de Morango,Tortas,1,42.0,Cartão,Niterói
+58,2025-02-10,Mariane Ramos,Brigadeiro Gourmet,Doces,5,3.5,Pix,Niterói
+59,2025-03-15,Vicente Azevedo,Kit Festa Pequeno,Kits,2,120.0,Pix,Duque de Caxias
+60,2025-04-28,Luiz Fernando da Paz,Brigadeiro Gourmet,Doces,1,3.5,Pix,Nova Iguaçu
+61,2025-04-02,Esther Lopes,Bolo de Chocolate,Bolos,1,38.0,Dinheiro,Nova Iguaçu
+62,2025-04-05,Samuel Costela,Bolo de Cenoura,Bolos,1,35.0,Cartão,Niterói
+63,2025-03-15,Guilherme Pinto,Kit Festa Pequeno,Kits,4,120.0,Pix,Niterói
+64,2025-03-14,Pedro Henrique Peixoto,Kit Festa Pequeno,Kits,1,120.0,Cartão,Duque de Caxias
+65,2025-03-27,Yago Freitas,Bolo de Cenoura,Bolos,4,35.0,Pix,Duque de Caxias
+66,2025-05-03,Maria Cecília Porto,Torta de Limão,Tortas,4,40.0,Dinheiro,Nova Iguaçu
+67,2025-03-17,Maria Sophia Almeida,Kit Festa Médio,Kits,2,180.0,Cartão,São Gonçalo
+68,2025-01-14,Alícia Castro,Brigadeiro Gourmet,Doces,1,3.5,Dinheiro,Nova Iguaçu
+69,2025-03-25,Maysa Mendes,Bolo de Cenoura,Bolos,3,35.0,Cartão,Rio de Janeiro
+70,2025-03-18,Noah Mendes,Kit Festa Médio,Kits,5,180.0,Dinheiro,Niterói
+71,2025-02-20,Emilly Cardoso,Bolo de Cenoura,Bolos,5,35.0,Cartão,Niterói
+72,2025-03-14,Emanuella da Cunha,Bolo de Chocolate,Bolos,5,38.0,Cartão,Niterói
+73,2025-02-26,Nicole da Luz,Kit Festa Pequeno,Kits,1,120.0,Dinheiro,Niterói
+74,2025-01-27,Luiz Gustavo Silveira,Bolo de Cenoura,Bolos,5,35.0,Cartão,Duque de Caxias
+75,2025-04-22,Emanuella Ferreira,Torta de Morango,Tortas,3,42.0,Cartão,São Gonçalo
+76,2025-04-12,Igor Alves,Brigadeiro Gourmet,Doces,3,3.5,Pix,Niterói
+77,2025-03-12,Ana Júlia Alves,Torta de Limão,Tortas,4,40.0,Pix,Rio de Janeiro
+78,2025-04-06,Vitor da Conceição,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,Nova Iguaçu
+79,2025-04-02,Julia Oliveira,Bolo de Chocolate,Bolos,1,38.0,Dinheiro,Niterói
+80,2025-02-15,Lara Vieira,Torta de Limão,Tortas,2,40.0,Pix,Rio de Janeiro
+81,2025-01-29,Olivia Gomes,Brigadeiro Gourmet,Doces,3,3.5,Pix,Niterói
+82,2025-04-12,Ana Luiza da Cunha,Kit Festa Médio,Kits,5,180.0,Dinheiro,São Gonçalo
+83,2025-03-11,Emanuel Lopes,Bolo de Cenoura,Bolos,5,35.0,Pix,Rio de Janeiro
+84,2025-01-25,Maria Fernanda Azevedo,Brownie,Doces,3,6.0,Cartão,Rio de Janeiro
+85,2025-04-23,Ana Sophia Rezende,Brownie,Doces,3,6.0,Pix,Nova Iguaçu
+86,2025-01-23,Fernanda Santos,Brigadeiro Gourmet,Doces,3,3.5,Cartão,São Gonçalo
+87,2025-04-22,Maria Eduarda Costa,Kit Festa Médio,Kits,3,180.0,Cartão,Rio de Janeiro
+88,2025-01-31,Kamilly Nogueira,Kit Festa Pequeno,Kits,3,120.0,Cartão,Rio de Janeiro
+89,2025-01-31,Yago Castro,Torta de Morango,Tortas,2,42.0,Dinheiro,São Gonçalo
+90,2025-02-10,Daniel Moura,Brownie,Doces,4,6.0,Dinheiro,Duque de Caxias
+91,2025-05-11,Maria Fernanda da Mata,Bolo de Cenoura,Bolos,1,35.0,Cartão,Niterói
+92,2025-04-27,Beatriz Melo,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,Nova Iguaçu
+93,2025-01-25,Maria Eduarda Jesus,Brownie,Doces,4,6.0,Cartão,Rio de Janeiro
+94,2025-05-09,Bárbara Barbosa,Torta de Limão,Tortas,3,40.0,Cartão,São Gonçalo
+95,2025-03-06,Ana Laura Costa,Brigadeiro Gourmet,Doces,2,3.5,Dinheiro,Rio de Janeiro
+96,2025-05-01,Gustavo Ramos,Torta de Morango,Tortas,5,42.0,Pix,Nova Iguaçu
+97,2025-05-10,Ana Julia da Cunha,Brownie,Doces,2,6.0,Cartão,Niterói
+98,2025-02-25,Gabriel Duarte,Kit Festa Pequeno,Kits,1,120.0,Cartão,São Gonçalo
+99,2025-02-26,Vitor Hugo Dias,Kit Festa Pequeno,Kits,2,120.0,Pix,Niterói
+100,2025-03-25,Giovanna Cunha,Bolo de Chocolate,Bolos,4,38.0,Cartão,Duque de Caxias
+101,2025-03-22,Ana Beatriz Freitas,Brigadeiro Gourmet,Doces,2,3.5,Pix,São Gonçalo
+102,2025-03-28,Emanuel Gomes,Torta de Limão,Tortas,2,40.0,Cartão,Rio de Janeiro
+103,2025-02-23,Larissa Cardoso,Brigadeiro Gourmet,Doces,4,3.5,Pix,São Gonçalo
+104,2025-03-03,Francisco Pereira,Bolo de Chocolate,Bolos,3,38.0,Pix,Nova Iguaçu
+105,2025-04-09,Alexandre Rocha,Kit Festa Pequeno,Kits,5,120.0,Pix,Rio de Janeiro
+106,2025-05-11,Marcos Vinicius Campos,Bolo de Chocolate,Bolos,3,38.0,Cartão,Nova Iguaçu
+107,2025-04-02,Maria Clara Nascimento,Torta de Limão,Tortas,1,40.0,Cartão,Nova Iguaçu
+108,2025-04-26,Amanda Teixeira,Kit Festa Pequeno,Kits,3,120.0,Dinheiro,São Gonçalo
+109,2025-04-17,Bianca Gomes,Kit Festa Pequeno,Kits,5,120.0,Dinheiro,Rio de Janeiro
+110,2025-03-23,Enrico Ramos,Kit Festa Pequeno,Kits,5,120.0,Cartão,São Gonçalo
+111,2025-05-06,Igor Duarte,Bolo de Cenoura,Bolos,4,35.0,Cartão,Nova Iguaçu
+112,2025-05-04,Maria Cecília Sales,Brigadeiro Gourmet,Doces,3,3.5,Pix,Rio de Janeiro
+113,2025-01-31,Sophia da Mata,Torta de Morango,Tortas,5,42.0,Pix,Rio de Janeiro
+114,2025-04-18,Maitê Cavalcanti,Torta de Limão,Tortas,5,40.0,Pix,Duque de Caxias
+115,2025-02-04,Alexandre Araújo,Torta de Morango,Tortas,4,42.0,Dinheiro,São Gonçalo
+116,2025-02-16,Kevin Silveira,Brownie,Doces,2,6.0,Pix,Duque de Caxias
+117,2025-05-14,Diogo Almeida,Brownie,Doces,5,6.0,Dinheiro,São Gonçalo
+118,2025-05-14,Sophie Azevedo,Kit Festa Pequeno,Kits,5,120.0,Cartão,São Gonçalo
+119,2025-05-08,Davi Caldeira,Torta de Limão,Tortas,2,40.0,Pix,Nova Iguaçu
+120,2025-03-06,Clarice Novaes,Torta de Morango,Tortas,4,42.0,Pix,Duque de Caxias
+121,2025-01-20,Marcelo Gomes,Brigadeiro Gourmet,Doces,5,3.5,Pix,Niterói
+122,2025-02-02,Marcelo Araújo,Bolo de Chocolate,Bolos,3,38.0,Dinheiro,Nova Iguaçu
+123,2025-01-22,Luigi Pinto,Torta de Morango,Tortas,1,42.0,Cartão,São Gonçalo
+124,2025-02-05,Julia Freitas,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Rio de Janeiro
+125,2025-01-22,Mirella Freitas,Bolo de Cenoura,Bolos,2,35.0,Pix,Nova Iguaçu
+126,2025-04-04,Miguel da Luz,Bolo de Chocolate,Bolos,4,38.0,Pix,Nova Iguaçu
+127,2025-02-10,Mariana Freitas,Brigadeiro Gourmet,Doces,4,3.5,Pix,Duque de Caxias
+128,2025-03-09,Clara Santos,Brigadeiro Gourmet,Doces,2,3.5,Dinheiro,Rio de Janeiro
+129,2025-01-14,Caio Viana,Bolo de Chocolate,Bolos,4,38.0,Cartão,Niterói
+130,2025-03-18,Luiz Miguel Ribeiro,Kit Festa Médio,Kits,1,180.0,Dinheiro,Niterói
+131,2025-02-06,Bryan Cunha,Bolo de Chocolate,Bolos,4,38.0,Cartão,Duque de Caxias
+132,2025-02-17,Miguel Pires,Torta de Morango,Tortas,4,42.0,Dinheiro,Nova Iguaçu
+133,2025-05-11,Luiz Gustavo da Cunha,Kit Festa Pequeno,Kits,5,120.0,Pix,Niterói
+134,2025-04-29,Maysa Oliveira,Kit Festa Médio,Kits,4,180.0,Pix,Niterói
+135,2025-03-13,Ana Julia Moura,Torta de Limão,Tortas,5,40.0,Pix,Niterói
+136,2025-02-28,Melissa Ferreira,Torta de Limão,Tortas,4,40.0,Cartão,São Gonçalo
+137,2025-04-05,Pietro Lima,Brigadeiro Gourmet,Doces,3,3.5,Pix,São Gonçalo
+138,2025-05-08,Henrique Farias,Bolo de Chocolate,Bolos,2,38.0,Cartão,Niterói
+139,2025-01-24,Luna Cavalcanti,Kit Festa Pequeno,Kits,2,120.0,Dinheiro,Niterói
+140,2025-05-02,Clarice Silveira,Bolo de Chocolate,Bolos,4,38.0,Pix,São Gonçalo
+141,2025-04-28,Emanuella Novaes,Kit Festa Médio,Kits,4,180.0,Cartão,Niterói
+142,2025-02-24,João Gabriel Campos,Kit Festa Pequeno,Kits,4,120.0,Dinheiro,Rio de Janeiro
+143,2025-05-09,Carolina das Neves,Kit Festa Pequeno,Kits,4,120.0,Cartão,São Gonçalo
+144,2025-05-02,Maria Julia da Luz,Torta de Limão,Tortas,4,40.0,Pix,Nova Iguaçu
+145,2025-03-24,Luna Farias,Brigadeiro Gourmet,Doces,4,3.5,Cartão,São Gonçalo
+146,2025-02-18,Brenda Mendes,Kit Festa Pequeno,Kits,4,120.0,Cartão,Duque de Caxias
+147,2025-04-04,Cauã Souza,Torta de Morango,Tortas,4,42.0,Dinheiro,Niterói
+148,2025-02-16,Isis Melo,Kit Festa Médio,Kits,2,180.0,Dinheiro,Nova Iguaçu
+149,2025-03-06,Gabriela Azevedo,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,Nova Iguaçu
+150,2025-03-02,Luiz Gustavo Teixeira,Bolo de Cenoura,Bolos,1,35.0,Dinheiro,Duque de Caxias
+151,2025-02-24,Diego Silveira,Brownie,Doces,4,6.0,Cartão,Rio de Janeiro
+152,2025-03-10,Luana da Mata,Torta de Limão,Tortas,4,40.0,Pix,Niterói
+153,2025-03-26,Kevin Santos,Kit Festa Médio,Kits,3,180.0,Pix,Duque de Caxias
+154,2025-03-21,Daniel Lopes,Torta de Limão,Tortas,4,40.0,Pix,Rio de Janeiro
+155,2025-01-14,Marina da Luz,Kit Festa Médio,Kits,1,180.0,Dinheiro,Nova Iguaçu
+156,2025-02-19,Isabel Dias,Bolo de Cenoura,Bolos,3,35.0,Cartão,Rio de Janeiro
+157,2025-02-18,Luiz Fernando Moreira,Bolo de Cenoura,Bolos,1,35.0,Cartão,Niterói
+158,2025-01-22,Ana Laura Nunes,Bolo de Cenoura,Bolos,5,35.0,Cartão,Niterói
+159,2025-03-19,Esther Gonçalves,Brownie,Doces,4,6.0,Dinheiro,Rio de Janeiro
+160,2025-04-09,Lívia Azevedo,Brigadeiro Gourmet,Doces,4,3.5,Dinheiro,São Gonçalo
+161,2025-03-28,Levi Moura,Torta de Morango,Tortas,2,42.0,Dinheiro,Nova Iguaçu
+162,2025-03-16,Igor Peixoto,Bolo de Chocolate,Bolos,2,38.0,Pix,Rio de Janeiro
+163,2025-04-06,Joaquim Aragão,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,Duque de Caxias
+164,2025-04-30,Leonardo das Neves,Kit Festa Pequeno,Kits,2,120.0,Cartão,Nova Iguaçu
+165,2025-04-13,Vitória Oliveira,Brigadeiro Gourmet,Doces,1,3.5,Dinheiro,São Gonçalo
+166,2025-02-03,Olivia Barros,Bolo de Chocolate,Bolos,5,38.0,Cartão,São Gonçalo
+167,2025-02-12,Lucca Fogaça,Kit Festa Pequeno,Kits,3,120.0,Cartão,Nova Iguaçu
+168,2025-02-12,Raquel Silva,Torta de Morango,Tortas,1,42.0,Pix,Duque de Caxias
+169,2025-01-30,Julia Freitas,Bolo de Chocolate,Bolos,4,38.0,Pix,Duque de Caxias
+170,2025-04-18,Bryan Novaes,Brownie,Doces,4,6.0,Cartão,Nova Iguaçu
+171,2025-01-16,Yago da Mota,Torta de Limão,Tortas,5,40.0,Dinheiro,Duque de Caxias
+172,2025-04-05,Ana Júlia Alves,Kit Festa Médio,Kits,4,180.0,Dinheiro,Nova Iguaçu
+173,2025-03-26,Murilo Mendes,Torta de Limão,Tortas,3,40.0,Cartão,Rio de Janeiro
+174,2025-04-27,Marcela Freitas,Torta de Limão,Tortas,4,40.0,Cartão,Duque de Caxias
+175,2025-05-13,Sabrina Aragão,Kit Festa Pequeno,Kits,3,120.0,Cartão,Duque de Caxias
+176,2025-02-17,Vitória Cavalcanti,Torta de Morango,Tortas,2,42.0,Pix,Niterói
+177,2025-03-20,Bernardo da Cunha,Torta de Morango,Tortas,3,42.0,Pix,São Gonçalo
+178,2025-04-14,Isabel Ferreira,Torta de Limão,Tortas,5,40.0,Cartão,Nova Iguaçu
+179,2025-04-14,Erick Fogaça,Brigadeiro Gourmet,Doces,1,3.5,Cartão,Duque de Caxias
+180,2025-04-06,Júlia Pereira,Kit Festa Médio,Kits,5,180.0,Cartão,Duque de Caxias
+181,2025-05-02,Gustavo Rocha,Kit Festa Médio,Kits,4,180.0,Cartão,Rio de Janeiro
+182,2025-02-10,Julia Araújo,Torta de Limão,Tortas,2,40.0,Pix,Niterói
+183,2025-01-27,Alana Cardoso,Torta de Limão,Tortas,5,40.0,Pix,Duque de Caxias
+184,2025-02-14,Gustavo Henrique da Rosa,Torta de Morango,Tortas,4,42.0,Dinheiro,Nova Iguaçu
+185,2025-01-14,Eduardo Porto,Torta de Morango,Tortas,3,42.0,Dinheiro,Duque de Caxias
+186,2025-05-06,Maria Julia Fogaça,Torta de Limão,Tortas,3,40.0,Pix,Niterói
+187,2025-01-22,Alícia Gonçalves,Bolo de Chocolate,Bolos,2,38.0,Pix,Rio de Janeiro
+188,2025-03-21,Valentina Cavalcanti,Brownie,Doces,2,6.0,Cartão,Duque de Caxias
+189,2025-02-04,Marina Cavalcanti,Torta de Limão,Tortas,5,40.0,Dinheiro,Nova Iguaçu
+190,2025-03-15,Davi Castro,Torta de Limão,Tortas,1,40.0,Cartão,São Gonçalo
+191,2025-01-18,Henrique Melo,Brigadeiro Gourmet,Doces,3,3.5,Cartão,São Gonçalo
+192,2025-01-22,Vinicius Rocha,Bolo de Cenoura,Bolos,5,35.0,Cartão,São Gonçalo
+193,2025-03-08,Vitor Hugo Correia,Bolo de Cenoura,Bolos,1,35.0,Dinheiro,São Gonçalo
+194,2025-01-20,Diego Duarte,Brownie,Doces,4,6.0,Cartão,Rio de Janeiro
+195,2025-04-01,Davi Luiz Peixoto,Torta de Limão,Tortas,4,40.0,Pix,Duque de Caxias
+196,2025-02-04,Manuela Martins,Torta de Morango,Tortas,2,42.0,Cartão,São Gonçalo
+197,2025-03-08,Catarina Caldeira,Kit Festa Médio,Kits,1,180.0,Cartão,Duque de Caxias
+198,2025-04-08,Larissa da Luz,Kit Festa Médio,Kits,1,180.0,Dinheiro,Rio de Janeiro
+199,2025-01-30,Isabella Rocha,Brownie,Doces,2,6.0,Dinheiro,São Gonçalo
+200,2025-02-16,Raquel Novaes,Bolo de Chocolate,Bolos,2,38.0,Cartão,Nova Iguaçu
+201,2025-02-14,Nicole Lima,Kit Festa Pequeno,Kits,5,120.0,Dinheiro,Nova Iguaçu
+202,2025-01-29,Agatha da Mota,Brigadeiro Gourmet,Doces,5,3.5,Pix,Duque de Caxias
+203,2025-01-29,Ana Porto,Kit Festa Médio,Kits,3,180.0,Dinheiro,Duque de Caxias
+204,2025-04-03,Ian Melo,Torta de Limão,Tortas,5,40.0,Dinheiro,Rio de Janeiro
+205,2025-02-10,Matheus Fernandes,Bolo de Chocolate,Bolos,2,38.0,Dinheiro,Niterói
+206,2025-04-06,Theo Pires,Torta de Limão,Tortas,1,40.0,Cartão,Niterói
+207,2025-01-15,Emanuella Fernandes,Brownie,Doces,5,6.0,Cartão,Niterói
+208,2025-03-01,Paulo Lopes,Bolo de Cenoura,Bolos,4,35.0,Pix,Nova Iguaçu
+209,2025-03-03,Rafael Oliveira,Kit Festa Médio,Kits,3,180.0,Cartão,Niterói
+210,2025-04-19,Daniela Alves,Torta de Limão,Tortas,3,40.0,Dinheiro,Duque de Caxias
+211,2025-04-08,Pietra Costa,Bolo de Chocolate,Bolos,2,38.0,Pix,Nova Iguaçu
+212,2025-04-15,Lívia Fernandes,Brigadeiro Gourmet,Doces,4,3.5,Cartão,Nova Iguaçu
+213,2025-04-12,Stella Correia,Brigadeiro Gourmet,Doces,2,3.5,Pix,Niterói
+214,2025-04-26,Rodrigo Monteiro,Bolo de Chocolate,Bolos,1,38.0,Cartão,São Gonçalo
+215,2025-03-21,Joaquim Cunha,Torta de Limão,Tortas,4,40.0,Cartão,Duque de Caxias
+216,2025-03-14,Olivia Correia,Torta de Limão,Tortas,4,40.0,Pix,Nova Iguaçu
+217,2025-05-13,Vicente Correia,Kit Festa Médio,Kits,4,180.0,Cartão,Nova Iguaçu
+218,2025-05-12,Joana Ferreira,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,São Gonçalo
+219,2025-01-28,Isabel Cunha,Torta de Limão,Tortas,1,40.0,Cartão,Niterói
+220,2025-04-19,Enrico Ribeiro,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,Rio de Janeiro
+221,2025-01-27,Erick Vieira,Brownie,Doces,4,6.0,Dinheiro,Duque de Caxias
+222,2025-03-24,João Pedro Castro,Torta de Limão,Tortas,2,40.0,Dinheiro,Duque de Caxias
+223,2025-02-04,Caroline Ribeiro,Kit Festa Médio,Kits,1,180.0,Pix,São Gonçalo
+224,2025-01-23,Larissa Alves,Kit Festa Pequeno,Kits,3,120.0,Pix,Rio de Janeiro
+225,2025-02-27,Pedro da Paz,Brownie,Doces,3,6.0,Pix,Duque de Caxias
+226,2025-02-06,João da Luz,Torta de Limão,Tortas,4,40.0,Dinheiro,Rio de Janeiro
+227,2025-01-15,Isis Vieira,Kit Festa Médio,Kits,1,180.0,Pix,São Gonçalo
+228,2025-04-30,Rodrigo da Conceição,Torta de Morango,Tortas,1,42.0,Pix,Nova Iguaçu
+229,2025-05-05,Davi Lucas da Conceição,Bolo de Cenoura,Bolos,5,35.0,Pix,Duque de Caxias
+230,2025-01-26,Maria Alice da Luz,Bolo de Cenoura,Bolos,2,35.0,Dinheiro,São Gonçalo
+231,2025-01-17,Maria Alice da Luz,Kit Festa Médio,Kits,4,180.0,Cartão,Niterói
+232,2025-04-05,Danilo Melo,Torta de Limão,Tortas,5,40.0,Cartão,São Gonçalo
+233,2025-05-11,Lorenzo Duarte,Kit Festa Médio,Kits,4,180.0,Cartão,Rio de Janeiro
+234,2025-04-30,Isabella da Cunha,Brigadeiro Gourmet,Doces,2,3.5,Pix,Nova Iguaçu
+235,2025-02-03,Kamilly Gomes,Bolo de Cenoura,Bolos,5,35.0,Pix,Rio de Janeiro
+236,2025-02-11,Eduarda Rezende,Brigadeiro Gourmet,Doces,1,3.5,Pix,Rio de Janeiro
+237,2025-04-30,Luigi Aragão,Brownie,Doces,4,6.0,Dinheiro,São Gonçalo
+238,2025-04-02,Enzo Gabriel Campos,Torta de Limão,Tortas,4,40.0,Pix,Duque de Caxias
+239,2025-03-30,Bernardo da Paz,Brigadeiro Gourmet,Doces,4,3.5,Dinheiro,Niterói
+240,2025-02-21,Carolina Moreira,Kit Festa Pequeno,Kits,2,120.0,Dinheiro,Nova Iguaçu
+241,2025-04-01,Davi da Cruz,Brownie,Doces,1,6.0,Pix,Duque de Caxias
+242,2025-05-08,Ana Carolina Costela,Torta de Morango,Tortas,5,42.0,Pix,Rio de Janeiro
+243,2025-05-14,Juan Nogueira,Torta de Limão,Tortas,3,40.0,Dinheiro,Nova Iguaçu
+244,2025-04-20,Luna Dias,Kit Festa Médio,Kits,2,180.0,Pix,Nova Iguaçu
+245,2025-01-24,Nathan Cavalcanti,Kit Festa Médio,Kits,3,180.0,Pix,Nova Iguaçu
+246,2025-03-01,Danilo Cardoso,Kit Festa Pequeno,Kits,4,120.0,Pix,Niterói
+247,2025-03-28,Camila Araújo,Brigadeiro Gourmet,Doces,5,3.5,Pix,Niterói
+248,2025-01-26,Danilo Nunes,Kit Festa Pequeno,Kits,1,120.0,Pix,Duque de Caxias
+249,2025-04-23,Pedro Henrique da Rocha,Kit Festa Pequeno,Kits,4,120.0,Dinheiro,Niterói
+250,2025-03-20,Cecília Lopes,Kit Festa Médio,Kits,1,180.0,Cartão,Nova Iguaçu
+251,2025-04-05,Miguel Pinto,Torta de Morango,Tortas,1,42.0,Pix,Rio de Janeiro
+252,2025-02-17,Kevin Caldeira,Kit Festa Médio,Kits,1,180.0,Dinheiro,Niterói
+253,2025-05-08,Lorena Pereira,Kit Festa Pequeno,Kits,2,120.0,Cartão,Duque de Caxias
+254,2025-03-23,Vitor Hugo Mendes,Torta de Limão,Tortas,3,40.0,Dinheiro,Duque de Caxias
+255,2025-05-13,Ana Lívia Ferreira,Bolo de Chocolate,Bolos,3,38.0,Dinheiro,Nova Iguaçu
+256,2025-01-21,Miguel das Neves,Kit Festa Pequeno,Kits,3,120.0,Dinheiro,Duque de Caxias
+257,2025-04-22,Laura Teixeira,Bolo de Cenoura,Bolos,5,35.0,Cartão,Niterói
+258,2025-05-14,Ana Sophia Caldeira,Torta de Limão,Tortas,2,40.0,Dinheiro,Rio de Janeiro
+259,2025-04-30,João Lucas Sales,Kit Festa Pequeno,Kits,1,120.0,Dinheiro,Rio de Janeiro
+260,2025-02-17,Bryan da Costa,Kit Festa Médio,Kits,2,180.0,Dinheiro,São Gonçalo
+261,2025-02-05,Fernando Pereira,Bolo de Cenoura,Bolos,1,35.0,Pix,Rio de Janeiro
+262,2025-02-11,Paulo Cavalcanti,Torta de Limão,Tortas,3,40.0,Pix,Duque de Caxias
+263,2025-04-26,Cauê Barros,Brownie,Doces,2,6.0,Dinheiro,Duque de Caxias
+264,2025-02-14,Marcelo Nascimento,Brownie,Doces,2,6.0,Cartão,Rio de Janeiro
+265,2025-04-13,Daniel Moreira,Kit Festa Pequeno,Kits,5,120.0,Dinheiro,Niterói
+266,2025-04-21,Alexandre Martins,Kit Festa Médio,Kits,5,180.0,Cartão,Niterói
+267,2025-04-06,Vitor Hugo Nunes,Kit Festa Médio,Kits,3,180.0,Pix,São Gonçalo
+268,2025-03-08,Felipe Viana,Bolo de Cenoura,Bolos,4,35.0,Pix,Nova Iguaçu
+269,2025-03-17,Murilo Aragão,Brownie,Doces,1,6.0,Pix,São Gonçalo
+270,2025-04-21,Miguel Gomes,Torta de Limão,Tortas,4,40.0,Dinheiro,São Gonçalo
+271,2025-02-06,Cauã Moreira,Kit Festa Médio,Kits,3,180.0,Cartão,Duque de Caxias
+272,2025-01-26,Maria Clara Carvalho,Kit Festa Médio,Kits,1,180.0,Cartão,Duque de Caxias
+273,2025-02-01,Vicente Moraes,Torta de Morango,Tortas,5,42.0,Pix,São Gonçalo
+274,2025-03-29,Maria Fernanda da Paz,Bolo de Cenoura,Bolos,4,35.0,Pix,Rio de Janeiro
+275,2025-05-13,Maria Vitória Cavalcanti,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,Duque de Caxias
+276,2025-03-29,Benício Fernandes,Torta de Limão,Tortas,2,40.0,Dinheiro,São Gonçalo
+277,2025-03-02,Calebe Lopes,Brigadeiro Gourmet,Doces,2,3.5,Dinheiro,São Gonçalo
+278,2025-02-16,Yago Santos,Brownie,Doces,1,6.0,Dinheiro,Rio de Janeiro
+279,2025-05-04,Maria Julia Lima,Torta de Limão,Tortas,4,40.0,Cartão,Nova Iguaçu
+280,2025-02-20,Ana Sophia da Mota,Torta de Morango,Tortas,2,42.0,Cartão,São Gonçalo
+281,2025-03-17,Ana da Mota,Torta de Morango,Tortas,4,42.0,Cartão,Niterói
+282,2025-04-16,Bruna Moraes,Brownie,Doces,5,6.0,Pix,Nova Iguaçu
+283,2025-03-20,Giovanna Pires,Torta de Limão,Tortas,2,40.0,Pix,Duque de Caxias
+284,2025-02-11,Isabella Lopes,Torta de Limão,Tortas,3,40.0,Cartão,Duque de Caxias
+285,2025-02-28,Calebe da Rocha,Bolo de Chocolate,Bolos,2,38.0,Cartão,Duque de Caxias
+286,2025-01-17,Samuel Correia,Torta de Morango,Tortas,1,42.0,Pix,Rio de Janeiro
+287,2025-02-24,Maria Eduarda Duarte,Torta de Limão,Tortas,5,40.0,Cartão,Duque de Caxias
+288,2025-04-27,Benjamin Oliveira,Torta de Morango,Tortas,3,42.0,Dinheiro,Duque de Caxias
+289,2025-01-13,João Gabriel Jesus,Torta de Morango,Tortas,1,42.0,Dinheiro,Niterói
+290,2025-02-01,Isis Gonçalves,Kit Festa Médio,Kits,1,180.0,Dinheiro,Nova Iguaçu
+291,2025-05-04,Theo Costela,Torta de Morango,Tortas,5,42.0,Cartão,Rio de Janeiro
+292,2025-05-08,Davi Luiz Sales,Kit Festa Médio,Kits,3,180.0,Dinheiro,Duque de Caxias
+293,2025-05-02,Rafael Monteiro,Bolo de Chocolate,Bolos,2,38.0,Cartão,Rio de Janeiro
+294,2025-03-30,Antônio Farias,Torta de Limão,Tortas,4,40.0,Cartão,Rio de Janeiro
+295,2025-01-13,Henrique Araújo,Brigadeiro Gourmet,Doces,5,3.5,Cartão,Duque de Caxias
+296,2025-03-23,Maria Cecília Melo,Kit Festa Médio,Kits,3,180.0,Dinheiro,Nova Iguaçu
+297,2025-03-22,Ian Cardoso,Kit Festa Pequeno,Kits,5,120.0,Dinheiro,Niterói
+298,2025-04-24,Rafaela Melo,Kit Festa Pequeno,Kits,1,120.0,Pix,Nova Iguaçu
+299,2025-02-14,Marcos Vinicius Gomes,Kit Festa Pequeno,Kits,3,120.0,Cartão,São Gonçalo
+300,2025-01-16,Pedro Henrique Lopes,Brigadeiro Gourmet,Doces,4,3.5,Pix,Niterói
+301,2025-04-25,Enrico Alves,Torta de Morango,Tortas,1,42.0,Dinheiro,São Gonçalo
+302,2025-05-03,João Miguel Caldeira,Torta de Morango,Tortas,1,42.0,Pix,São Gonçalo
+303,2025-03-09,Joana Cardoso,Brigadeiro Gourmet,Doces,1,3.5,Pix,Rio de Janeiro
+304,2025-04-15,Davi Rocha,Brigadeiro Gourmet,Doces,5,3.5,Cartão,Rio de Janeiro
+305,2025-03-23,Mariana da Rocha,Torta de Morango,Tortas,2,42.0,Cartão,Nova Iguaçu
+306,2025-01-13,Júlia Correia,Brigadeiro Gourmet,Doces,1,3.5,Dinheiro,Niterói
+307,2025-05-09,Davi Lucas da Rocha,Brigadeiro Gourmet,Doces,2,3.5,Pix,Niterói
+308,2025-04-16,Lucas Gabriel Lopes,Bolo de Cenoura,Bolos,3,35.0,Cartão,Niterói
+309,2025-05-13,Raul Araújo,Torta de Limão,Tortas,2,40.0,Cartão,Rio de Janeiro
+310,2025-01-25,Maria Cavalcanti,Brownie,Doces,1,6.0,Pix,Niterói
+311,2025-03-03,Nicole Moura,Torta de Morango,Tortas,1,42.0,Cartão,São Gonçalo
+312,2025-01-31,Bárbara Carvalho,Bolo de Cenoura,Bolos,2,35.0,Dinheiro,Duque de Caxias
+313,2025-04-26,João Guilherme das Neves,Bolo de Chocolate,Bolos,1,38.0,Pix,Duque de Caxias
+314,2025-01-22,Francisco Rodrigues,Torta de Morango,Tortas,5,42.0,Dinheiro,Rio de Janeiro
+315,2025-03-26,Kaique Peixoto,Kit Festa Médio,Kits,5,180.0,Cartão,Nova Iguaçu
+316,2025-05-04,Maria Cecília Novaes,Bolo de Cenoura,Bolos,5,35.0,Pix,Duque de Caxias
+317,2025-02-07,Júlia Fogaça,Bolo de Cenoura,Bolos,1,35.0,Pix,Duque de Caxias
+318,2025-01-15,Luiz Gustavo das Neves,Kit Festa Pequeno,Kits,1,120.0,Pix,Duque de Caxias
+319,2025-02-06,Maria Clara Melo,Bolo de Chocolate,Bolos,1,38.0,Pix,Nova Iguaçu
+320,2025-04-08,Renan Vieira,Brownie,Doces,1,6.0,Cartão,São Gonçalo
+321,2025-04-25,Vinicius Mendes,Torta de Morango,Tortas,4,42.0,Dinheiro,Nova Iguaçu
+322,2025-05-12,André Pereira,Torta de Limão,Tortas,4,40.0,Dinheiro,Nova Iguaçu
+323,2025-01-17,Elisa Correia,Kit Festa Pequeno,Kits,1,120.0,Dinheiro,Rio de Janeiro
+324,2025-03-28,Agatha Cavalcanti,Brigadeiro Gourmet,Doces,4,3.5,Pix,Niterói
+325,2025-03-26,Juan Freitas,Kit Festa Pequeno,Kits,3,120.0,Pix,Duque de Caxias
+326,2025-04-13,Yuri Viana,Kit Festa Pequeno,Kits,1,120.0,Pix,Duque de Caxias
+327,2025-02-07,Alana Fogaça,Torta de Morango,Tortas,3,42.0,Pix,Niterói
+328,2025-03-20,Ian Moreira,Kit Festa Médio,Kits,1,180.0,Cartão,Rio de Janeiro
+329,2025-04-20,Julia Barbosa,Bolo de Chocolate,Bolos,4,38.0,Cartão,São Gonçalo
+330,2025-03-14,Cauã Moreira,Brownie,Doces,5,6.0,Cartão,Nova Iguaçu
+331,2025-04-16,Marcos Vinicius da Mota,Torta de Morango,Tortas,1,42.0,Pix,São Gonçalo
+332,2025-04-26,Luiz Gustavo da Mota,Kit Festa Pequeno,Kits,1,120.0,Pix,Nova Iguaçu
+333,2025-02-28,Fernando da Cunha,Torta de Limão,Tortas,3,40.0,Cartão,Nova Iguaçu
+334,2025-05-09,Francisco Rocha,Brigadeiro Gourmet,Doces,2,3.5,Dinheiro,Duque de Caxias
+335,2025-03-07,Davi Lucca Nogueira,Brigadeiro Gourmet,Doces,1,3.5,Pix,Nova Iguaçu
+336,2025-03-13,Maria Vitória Costa,Torta de Morango,Tortas,1,42.0,Pix,Nova Iguaçu
+337,2025-01-18,Benjamin Moura,Brigadeiro Gourmet,Doces,4,3.5,Dinheiro,Nova Iguaçu
+338,2025-01-23,Joaquim Teixeira,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,São Gonçalo
+339,2025-03-10,Francisco Porto,Bolo de Cenoura,Bolos,2,35.0,Pix,São Gonçalo
+340,2025-05-09,Juan Gomes,Torta de Morango,Tortas,3,42.0,Cartão,Niterói
+341,2025-03-31,Eduarda Sales,Brownie,Doces,5,6.0,Dinheiro,Duque de Caxias
+342,2025-02-04,Mariane Peixoto,Bolo de Chocolate,Bolos,2,38.0,Dinheiro,Rio de Janeiro
+343,2025-02-21,Heloísa Rezende,Bolo de Chocolate,Bolos,5,38.0,Cartão,Duque de Caxias
+344,2025-05-10,Lucas Gabriel Nunes,Kit Festa Pequeno,Kits,4,120.0,Pix,Niterói
+345,2025-04-18,Benício Cunha,Torta de Morango,Tortas,3,42.0,Dinheiro,São Gonçalo
+346,2025-03-10,Mariane Porto,Bolo de Chocolate,Bolos,1,38.0,Cartão,Niterói
+347,2025-03-08,Juan Cardoso,Bolo de Cenoura,Bolos,1,35.0,Pix,Duque de Caxias
+348,2025-03-18,Enzo Gabriel Gonçalves,Kit Festa Pequeno,Kits,4,120.0,Dinheiro,Duque de Caxias
+349,2025-05-03,Thiago Nunes,Kit Festa Pequeno,Kits,3,120.0,Cartão,Nova Iguaçu
+350,2025-02-26,Enzo Rezende,Bolo de Chocolate,Bolos,3,38.0,Pix,Rio de Janeiro
+351,2025-03-10,Sarah Caldeira,Torta de Limão,Tortas,5,40.0,Pix,Nova Iguaçu
+352,2025-03-26,Vitor Silveira,Torta de Limão,Tortas,1,40.0,Cartão,Duque de Caxias
+353,2025-02-15,Kevin da Mata,Bolo de Cenoura,Bolos,1,35.0,Cartão,São Gonçalo
+354,2025-04-25,Arthur Costa,Brigadeiro Gourmet,Doces,2,3.5,Pix,São Gonçalo
+355,2025-03-16,Eduarda Pereira,Torta de Morango,Tortas,1,42.0,Cartão,Duque de Caxias
+356,2025-03-25,Nicolas Araújo,Kit Festa Pequeno,Kits,2,120.0,Cartão,Duque de Caxias
+357,2025-03-16,Juliana Pires,Brigadeiro Gourmet,Doces,5,3.5,Dinheiro,São Gonçalo
+358,2025-03-29,Luiz Fernando Costa,Bolo de Chocolate,Bolos,4,38.0,Dinheiro,Rio de Janeiro
+359,2025-04-08,Fernando Monteiro,Kit Festa Pequeno,Kits,1,120.0,Pix,Rio de Janeiro
+360,2025-02-09,André Silveira,Torta de Morango,Tortas,5,42.0,Pix,Nova Iguaçu
+361,2025-02-28,Vitor Carvalho,Kit Festa Pequeno,Kits,4,120.0,Pix,Rio de Janeiro
+362,2025-01-13,João Pedro Lima,Kit Festa Pequeno,Kits,1,120.0,Pix,Niterói
+363,2025-01-19,Luna das Neves,Kit Festa Médio,Kits,3,180.0,Cartão,Duque de Caxias
+364,2025-01-31,Davi Lucas Nogueira,Bolo de Chocolate,Bolos,2,38.0,Pix,Nova Iguaçu
+365,2025-02-09,Maria Fernanda Silva,Kit Festa Pequeno,Kits,5,120.0,Cartão,Duque de Caxias
+366,2025-01-27,Heitor Teixeira,Torta de Limão,Tortas,3,40.0,Cartão,São Gonçalo
+367,2025-05-14,Luiza Almeida,Brownie,Doces,1,6.0,Dinheiro,Rio de Janeiro
+368,2025-03-14,Caio Peixoto,Brigadeiro Gourmet,Doces,3,3.5,Pix,Niterói
+369,2025-05-11,Beatriz Cunha,Brigadeiro Gourmet,Doces,1,3.5,Cartão,São Gonçalo
+370,2025-04-11,Fernando Moura,Brigadeiro Gourmet,Doces,2,3.5,Dinheiro,Niterói
+371,2025-04-14,Clarice Ribeiro,Bolo de Chocolate,Bolos,2,38.0,Dinheiro,Duque de Caxias
+372,2025-03-03,Rafaela Rezende,Kit Festa Médio,Kits,5,180.0,Dinheiro,Duque de Caxias
+373,2025-04-19,João Gabriel da Conceição,Torta de Morango,Tortas,3,42.0,Cartão,Duque de Caxias
+374,2025-04-28,Agatha Oliveira,Bolo de Chocolate,Bolos,4,38.0,Pix,São Gonçalo
+375,2025-04-04,João Felipe Barbosa,Torta de Limão,Tortas,5,40.0,Cartão,São Gonçalo
+376,2025-04-07,Calebe da Cruz,Bolo de Chocolate,Bolos,3,38.0,Pix,Duque de Caxias
+377,2025-04-15,Valentina Pires,Bolo de Cenoura,Bolos,1,35.0,Pix,São Gonçalo
+378,2025-02-18,Ana Clara Duarte,Bolo de Chocolate,Bolos,1,38.0,Dinheiro,Nova Iguaçu
+379,2025-02-20,Beatriz Araújo,Kit Festa Pequeno,Kits,4,120.0,Dinheiro,Nova Iguaçu
+380,2025-03-03,Miguel Fogaça,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,Niterói
+381,2025-03-16,Kaique da Costa,Torta de Morango,Tortas,5,42.0,Pix,Nova Iguaçu
+382,2025-02-15,Clara Costela,Brownie,Doces,1,6.0,Pix,Rio de Janeiro
+383,2025-03-10,João da Conceição,Torta de Morango,Tortas,1,42.0,Dinheiro,Niterói
+384,2025-03-09,Pedro Silveira,Bolo de Cenoura,Bolos,2,35.0,Dinheiro,Duque de Caxias
+385,2025-02-27,Natália Pires,Kit Festa Médio,Kits,5,180.0,Dinheiro,Nova Iguaçu
+386,2025-01-28,André Cunha,Brownie,Doces,3,6.0,Pix,São Gonçalo
+387,2025-02-24,Clara da Costa,Kit Festa Pequeno,Kits,4,120.0,Pix,Nova Iguaçu
+388,2025-04-13,Letícia da Luz,Bolo de Cenoura,Bolos,3,35.0,Cartão,São Gonçalo
+389,2025-04-26,Enzo Gabriel da Mata,Bolo de Chocolate,Bolos,5,38.0,Dinheiro,Duque de Caxias
+390,2025-04-21,Beatriz Sales,Torta de Limão,Tortas,3,40.0,Dinheiro,Nova Iguaçu
+391,2025-03-26,Isabel Moura,Brownie,Doces,3,6.0,Cartão,Nova Iguaçu
+392,2025-01-16,Thales da Mata,Brownie,Doces,3,6.0,Pix,Duque de Caxias
+393,2025-04-04,Clara Porto,Brownie,Doces,5,6.0,Dinheiro,Rio de Janeiro
+394,2025-03-25,Pietra Moreira,Torta de Limão,Tortas,5,40.0,Pix,São Gonçalo
+395,2025-02-02,Maria Vitória Barros,Brownie,Doces,5,6.0,Cartão,Duque de Caxias
+396,2025-02-20,Erick Sales,Torta de Morango,Tortas,1,42.0,Pix,São Gonçalo
+397,2025-01-15,Murilo da Paz,Brownie,Doces,2,6.0,Pix,Duque de Caxias
+398,2025-01-31,Eduardo Gonçalves,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Niterói
+399,2025-04-07,Maria Clara Ramos,Bolo de Chocolate,Bolos,3,38.0,Cartão,Nova Iguaçu
+400,2025-04-15,Matheus Almeida,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,Niterói
+401,2025-05-11,Thales Correia,Kit Festa Pequeno,Kits,2,120.0,Cartão,Niterói
+402,2025-04-13,Ana Clara Araújo,Brownie,Doces,4,6.0,Cartão,Duque de Caxias
+403,2025-03-20,Isis da Mata,Torta de Morango,Tortas,2,42.0,Pix,Nova Iguaçu
+404,2025-03-26,Maria Sophia Moraes,Torta de Limão,Tortas,4,40.0,Cartão,Nova Iguaçu
+405,2025-01-27,Augusto Almeida,Brigadeiro Gourmet,Doces,3,3.5,Pix,Niterói
+406,2025-03-04,Julia Gomes,Torta de Morango,Tortas,5,42.0,Pix,Duque de Caxias
+407,2025-05-02,Nicole Lopes,Torta de Limão,Tortas,4,40.0,Dinheiro,Nova Iguaçu
+408,2025-04-18,Kevin Farias,Kit Festa Pequeno,Kits,2,120.0,Cartão,Nova Iguaçu
+409,2025-04-30,Clara Caldeira,Brownie,Doces,3,6.0,Cartão,Duque de Caxias
+410,2025-02-15,Cauê da Conceição,Torta de Morango,Tortas,5,42.0,Cartão,Nova Iguaçu
+411,2025-03-31,Gustavo Henrique Barros,Bolo de Chocolate,Bolos,3,38.0,Cartão,Niterói
+412,2025-03-21,Heloísa Azevedo,Torta de Limão,Tortas,4,40.0,Dinheiro,Niterói
+413,2025-04-06,João Vitor Correia,Kit Festa Pequeno,Kits,1,120.0,Cartão,Duque de Caxias
+414,2025-05-03,Brenda Araújo,Torta de Morango,Tortas,1,42.0,Pix,Rio de Janeiro
+415,2025-05-02,Melissa Silveira,Kit Festa Pequeno,Kits,5,120.0,Pix,Niterói
+416,2025-03-28,Alice Pinto,Kit Festa Pequeno,Kits,1,120.0,Pix,Niterói
+417,2025-04-11,Luiz Henrique da Mata,Bolo de Cenoura,Bolos,3,35.0,Cartão,São Gonçalo
+418,2025-04-03,Júlia da Paz,Brownie,Doces,2,6.0,Cartão,São Gonçalo
+419,2025-02-22,Otávio Barbosa,Kit Festa Médio,Kits,2,180.0,Dinheiro,Duque de Caxias
+420,2025-02-23,Leandro Freitas,Kit Festa Médio,Kits,5,180.0,Cartão,Rio de Janeiro
+421,2025-02-11,Yago Cavalcanti,Bolo de Cenoura,Bolos,3,35.0,Cartão,Niterói
+422,2025-05-14,Cauê Porto,Kit Festa Pequeno,Kits,1,120.0,Pix,Niterói
+423,2025-04-30,Bruna Dias,Torta de Limão,Tortas,1,40.0,Cartão,Niterói
+424,2025-04-07,Pietro Fogaça,Kit Festa Pequeno,Kits,5,120.0,Pix,Rio de Janeiro
+425,2025-04-24,Gabrielly da Paz,Bolo de Chocolate,Bolos,4,38.0,Dinheiro,Nova Iguaçu
+426,2025-03-24,Yago da Conceição,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,Niterói
+427,2025-04-29,Augusto Cardoso,Brownie,Doces,3,6.0,Pix,Rio de Janeiro
+428,2025-04-19,Danilo Santos,Torta de Morango,Tortas,2,42.0,Dinheiro,Duque de Caxias
+429,2025-04-23,Anthony Oliveira,Brownie,Doces,1,6.0,Dinheiro,São Gonçalo
+430,2025-04-18,João Vitor Melo,Bolo de Chocolate,Bolos,5,38.0,Dinheiro,Nova Iguaçu
+431,2025-04-19,João Gabriel da Mata,Bolo de Cenoura,Bolos,4,35.0,Pix,Rio de Janeiro
+432,2025-04-23,Diego Moura,Kit Festa Pequeno,Kits,3,120.0,Pix,Rio de Janeiro
+433,2025-02-22,Emanuelly Moura,Torta de Morango,Tortas,1,42.0,Pix,Niterói
+434,2025-04-22,Arthur Melo,Bolo de Chocolate,Bolos,5,38.0,Dinheiro,São Gonçalo
+435,2025-02-12,Maria Luiza da Cruz,Brownie,Doces,1,6.0,Pix,Nova Iguaçu
+436,2025-03-14,Lavínia Nunes,Torta de Morango,Tortas,2,42.0,Dinheiro,Duque de Caxias
+437,2025-03-18,Benício Cardoso,Kit Festa Médio,Kits,2,180.0,Cartão,Rio de Janeiro
+438,2025-04-03,Sarah Fogaça,Kit Festa Médio,Kits,1,180.0,Pix,Niterói
+439,2025-03-17,Vitória Nunes,Bolo de Cenoura,Bolos,2,35.0,Cartão,São Gonçalo
+440,2025-03-07,Otávio Barbosa,Torta de Limão,Tortas,5,40.0,Pix,Nova Iguaçu
+441,2025-03-11,João Campos,Kit Festa Médio,Kits,3,180.0,Cartão,Niterói
+442,2025-04-16,Clarice Porto,Torta de Limão,Tortas,3,40.0,Cartão,São Gonçalo
+443,2025-05-09,Ana Sophia Nogueira,Torta de Limão,Tortas,1,40.0,Pix,Duque de Caxias
+444,2025-04-25,Lucas das Neves,Kit Festa Pequeno,Kits,4,120.0,Pix,São Gonçalo
+445,2025-04-02,Yuri Vieira,Brownie,Doces,4,6.0,Dinheiro,Duque de Caxias
+446,2025-01-25,Isis Souza,Torta de Morango,Tortas,5,42.0,Pix,Rio de Janeiro
+447,2025-04-10,André Porto,Kit Festa Pequeno,Kits,1,120.0,Pix,Nova Iguaçu
+448,2025-04-27,Yuri Silva,Brownie,Doces,5,6.0,Pix,São Gonçalo
+449,2025-05-06,Felipe Rodrigues,Bolo de Chocolate,Bolos,1,38.0,Pix,São Gonçalo
+450,2025-04-11,Alice Azevedo,Torta de Limão,Tortas,4,40.0,Dinheiro,Duque de Caxias
+451,2025-02-03,Alice Peixoto,Brownie,Doces,4,6.0,Pix,Duque de Caxias
+452,2025-04-09,Otávio Gonçalves,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,Duque de Caxias
+453,2025-02-23,João Pedro da Conceição,Torta de Limão,Tortas,1,40.0,Cartão,Duque de Caxias
+454,2025-03-19,Luiz Fernando Gonçalves,Torta de Morango,Tortas,5,42.0,Dinheiro,Niterói
+455,2025-04-12,Alana Duarte,Bolo de Cenoura,Bolos,2,35.0,Dinheiro,Duque de Caxias
+456,2025-03-15,Bruno da Cruz,Bolo de Cenoura,Bolos,2,35.0,Cartão,Niterói
+457,2025-02-11,Vinicius Duarte,Torta de Morango,Tortas,3,42.0,Pix,Nova Iguaçu
+458,2025-04-21,Vicente Almeida,Bolo de Cenoura,Bolos,5,35.0,Cartão,Duque de Caxias
+459,2025-04-16,Sofia Cardoso,Torta de Morango,Tortas,3,42.0,Pix,Rio de Janeiro
+460,2025-05-05,Maitê Mendes,Brownie,Doces,5,6.0,Pix,Duque de Caxias
+461,2025-05-03,Júlia da Costa,Torta de Morango,Tortas,3,42.0,Cartão,Rio de Janeiro
+462,2025-03-07,Caio Carvalho,Bolo de Cenoura,Bolos,2,35.0,Pix,Nova Iguaçu
+463,2025-03-30,Eduarda Ribeiro,Kit Festa Pequeno,Kits,5,120.0,Cartão,São Gonçalo
+464,2025-01-27,Maria Eduarda Gonçalves,Torta de Limão,Tortas,4,40.0,Cartão,Nova Iguaçu
+465,2025-04-03,Bruno Caldeira,Torta de Limão,Tortas,4,40.0,Cartão,Rio de Janeiro
+466,2025-02-14,Luiz Fernando Pinto,Brownie,Doces,1,6.0,Pix,Niterói
+467,2025-02-05,Bianca Nogueira,Kit Festa Médio,Kits,1,180.0,Dinheiro,São Gonçalo
+468,2025-04-12,Ana Julia Souza,Torta de Morango,Tortas,1,42.0,Dinheiro,Nova Iguaçu
+469,2025-02-01,Emanuella Teixeira,Torta de Limão,Tortas,3,40.0,Cartão,Niterói
+470,2025-03-08,Heitor Duarte,Torta de Morango,Tortas,5,42.0,Cartão,Rio de Janeiro
+471,2025-02-22,Catarina Campos,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Duque de Caxias
+472,2025-05-11,Lavínia Monteiro,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,Nova Iguaçu
+473,2025-02-16,Maria Julia Nunes,Torta de Morango,Tortas,4,42.0,Dinheiro,Niterói
+474,2025-02-16,Bernardo Novaes,Bolo de Chocolate,Bolos,1,38.0,Pix,Duque de Caxias
+475,2025-01-26,Emanuel Monteiro,Kit Festa Médio,Kits,5,180.0,Pix,Duque de Caxias
+476,2025-04-29,Lucas Monteiro,Bolo de Chocolate,Bolos,2,38.0,Pix,Rio de Janeiro
+477,2025-04-07,Samuel da Luz,Kit Festa Médio,Kits,4,180.0,Dinheiro,Nova Iguaçu
+478,2025-04-16,Pietra Melo,Torta de Morango,Tortas,2,42.0,Dinheiro,Nova Iguaçu
+479,2025-02-25,Pedro Melo,Brownie,Doces,2,6.0,Pix,Nova Iguaçu
+480,2025-03-01,Alana Melo,Bolo de Cenoura,Bolos,1,35.0,Dinheiro,Niterói
+481,2025-02-07,Kaique Lima,Torta de Limão,Tortas,2,40.0,Cartão,São Gonçalo
+482,2025-02-02,Breno Rezende,Brigadeiro Gourmet,Doces,3,3.5,Dinheiro,São Gonçalo
+483,2025-04-29,Rebeca Alves,Bolo de Chocolate,Bolos,3,38.0,Cartão,Nova Iguaçu
+484,2025-03-10,Vicente Carvalho,Torta de Limão,Tortas,2,40.0,Dinheiro,São Gonçalo
+485,2025-03-14,Miguel Barros,Bolo de Chocolate,Bolos,5,38.0,Dinheiro,Niterói
+486,2025-02-10,Ana Carolina Vieira,Brownie,Doces,2,6.0,Dinheiro,Nova Iguaçu
+487,2025-01-28,Otávio da Paz,Torta de Morango,Tortas,5,42.0,Cartão,Rio de Janeiro
+488,2025-02-11,Erick Silva,Bolo de Chocolate,Bolos,1,38.0,Dinheiro,Nova Iguaçu
+489,2025-03-22,Valentina Novaes,Torta de Limão,Tortas,2,40.0,Dinheiro,Duque de Caxias
+490,2025-01-14,Luna Martins,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,Nova Iguaçu
+491,2025-03-13,Juliana Freitas,Torta de Limão,Tortas,3,40.0,Pix,Niterói
+492,2025-02-01,Alícia Santos,Kit Festa Pequeno,Kits,3,120.0,Pix,Rio de Janeiro
+493,2025-04-28,Maria Julia Moraes,Bolo de Cenoura,Bolos,2,35.0,Pix,Duque de Caxias
+494,2025-03-25,Vitor da Conceição,Kit Festa Médio,Kits,4,180.0,Cartão,São Gonçalo
+495,2025-04-24,Pedro Lucas Santos,Brownie,Doces,3,6.0,Dinheiro,São Gonçalo
+496,2025-04-07,Ana Fernandes,Torta de Morango,Tortas,4,42.0,Cartão,São Gonçalo
+497,2025-04-24,Isabel Nascimento,Bolo de Chocolate,Bolos,3,38.0,Cartão,Duque de Caxias
+498,2025-03-13,Maria Julia Dias,Bolo de Chocolate,Bolos,3,38.0,Pix,Niterói
+499,2025-04-03,Alícia Araújo,Brownie,Doces,1,6.0,Cartão,São Gonçalo
+500,2025-02-22,Bárbara Duarte,Kit Festa Pequeno,Kits,5,120.0,Pix,Niterói
+501,2025-05-06,Marcos Vinicius Duarte,Brownie,Doces,3,6.0,Dinheiro,São Gonçalo
+502,2025-04-19,Maria Pereira,Brigadeiro Gourmet,Doces,2,3.5,Pix,Nova Iguaçu
+503,2025-01-27,Davi Lucca das Neves,Kit Festa Médio,Kits,4,180.0,Pix,Duque de Caxias
+504,2025-02-04,Sophia Viana,Bolo de Cenoura,Bolos,1,35.0,Pix,Nova Iguaçu
+505,2025-04-21,Stephany Caldeira,Kit Festa Médio,Kits,2,180.0,Cartão,Nova Iguaçu
+506,2025-01-29,Murilo Duarte,Torta de Morango,Tortas,1,42.0,Cartão,São Gonçalo
+507,2025-03-06,Lucas Novaes,Kit Festa Médio,Kits,5,180.0,Dinheiro,Duque de Caxias
+508,2025-04-24,Vicente Nogueira,Torta de Limão,Tortas,5,40.0,Cartão,Rio de Janeiro
+509,2025-03-11,Joana Moreira,Kit Festa Pequeno,Kits,2,120.0,Pix,São Gonçalo
+510,2025-04-15,João Miguel Oliveira,Kit Festa Pequeno,Kits,3,120.0,Cartão,Duque de Caxias
+511,2025-01-30,Sofia da Paz,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,Niterói
+512,2025-03-19,João Vitor Teixeira,Torta de Morango,Tortas,5,42.0,Pix,Rio de Janeiro
+513,2025-04-15,Rodrigo Rocha,Kit Festa Pequeno,Kits,5,120.0,Pix,Nova Iguaçu
+514,2025-01-19,Sabrina Moura,Torta de Limão,Tortas,5,40.0,Dinheiro,Nova Iguaçu
+515,2025-02-10,Vinicius Gomes,Bolo de Chocolate,Bolos,2,38.0,Cartão,Duque de Caxias
+516,2025-02-11,Eloah Sales,Torta de Morango,Tortas,3,42.0,Dinheiro,São Gonçalo
+517,2025-03-09,Letícia Martins,Brownie,Doces,2,6.0,Dinheiro,Nova Iguaçu
+518,2025-03-13,Anthony Silveira,Kit Festa Pequeno,Kits,5,120.0,Cartão,Rio de Janeiro
+519,2025-02-21,Lívia Barros,Bolo de Cenoura,Bolos,2,35.0,Dinheiro,São Gonçalo
+520,2025-05-06,Carlos Eduardo Dias,Kit Festa Médio,Kits,5,180.0,Pix,Niterói
+521,2025-05-08,Daniela Silva,Brownie,Doces,3,6.0,Dinheiro,São Gonçalo
+522,2025-04-12,Levi Ramos,Brownie,Doces,4,6.0,Dinheiro,São Gonçalo
+523,2025-03-03,Pedro Teixeira,Torta de Morango,Tortas,5,42.0,Dinheiro,Nova Iguaçu
+524,2025-04-27,Emanuella da Rosa,Kit Festa Médio,Kits,5,180.0,Pix,Duque de Caxias
+525,2025-03-20,Ana Carolina Martins,Bolo de Cenoura,Bolos,3,35.0,Pix,Rio de Janeiro
+526,2025-04-19,Maria Fernanda Porto,Kit Festa Pequeno,Kits,5,120.0,Pix,Rio de Janeiro
+527,2025-05-09,Cecília Ferreira,Kit Festa Médio,Kits,3,180.0,Dinheiro,Nova Iguaçu
+528,2025-05-12,Nina Campos,Brigadeiro Gourmet,Doces,1,3.5,Dinheiro,Duque de Caxias
+529,2025-05-14,Stella Sales,Brownie,Doces,5,6.0,Dinheiro,Nova Iguaçu
+530,2025-02-08,Luiz Otávio da Cruz,Kit Festa Pequeno,Kits,2,120.0,Dinheiro,Niterói
+531,2025-01-21,Samuel Monteiro,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,Rio de Janeiro
+532,2025-02-16,Joana Jesus,Brigadeiro Gourmet,Doces,1,3.5,Pix,São Gonçalo
+533,2025-05-03,Ana Carolina da Luz,Kit Festa Pequeno,Kits,2,120.0,Pix,Niterói
+534,2025-03-21,Eloah Moreira,Kit Festa Pequeno,Kits,5,120.0,Dinheiro,Duque de Caxias
+535,2025-03-23,Larissa Castro,Bolo de Cenoura,Bolos,2,35.0,Dinheiro,Niterói
+536,2025-02-14,Joaquim Fernandes,Torta de Morango,Tortas,4,42.0,Dinheiro,Duque de Caxias
+537,2025-04-21,Levi Jesus,Torta de Morango,Tortas,2,42.0,Pix,Nova Iguaçu
+538,2025-04-08,Joaquim Dias,Torta de Morango,Tortas,5,42.0,Pix,São Gonçalo
+539,2025-04-16,Marcelo Ferreira,Kit Festa Médio,Kits,2,180.0,Cartão,São Gonçalo
+540,2025-03-19,Camila Barros,Torta de Limão,Tortas,2,40.0,Pix,São Gonçalo
+541,2025-05-06,Milena Aragão,Brigadeiro Gourmet,Doces,4,3.5,Pix,Duque de Caxias
+542,2025-02-26,Alice Viana,Torta de Morango,Tortas,5,42.0,Dinheiro,São Gonçalo
+543,2025-05-07,João Miguel Cardoso,Torta de Limão,Tortas,1,40.0,Dinheiro,Nova Iguaçu
+544,2025-01-17,Ana Carolina Moreira,Kit Festa Pequeno,Kits,4,120.0,Pix,Niterói
+545,2025-02-17,Mariane da Rosa,Torta de Limão,Tortas,1,40.0,Pix,Rio de Janeiro
+546,2025-04-02,Pedro Lucas Ferreira,Torta de Morango,Tortas,4,42.0,Dinheiro,São Gonçalo
+547,2025-02-17,Ana Vitória da Conceição,Kit Festa Médio,Kits,2,180.0,Cartão,Nova Iguaçu
+548,2025-01-24,Thales Correia,Torta de Limão,Tortas,5,40.0,Dinheiro,São Gonçalo
+549,2025-05-01,Isabel Araújo,Brownie,Doces,1,6.0,Dinheiro,Nova Iguaçu
+550,2025-04-24,João Miguel Viana,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Nova Iguaçu
+551,2025-01-30,Levi Ferreira,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Rio de Janeiro
+552,2025-02-13,Marcos Vinicius Almeida,Kit Festa Pequeno,Kits,3,120.0,Dinheiro,Duque de Caxias
+553,2025-02-17,Bruno Cardoso,Bolo de Chocolate,Bolos,2,38.0,Cartão,Nova Iguaçu
+554,2025-04-26,Luiz Otávio da Luz,Brownie,Doces,4,6.0,Dinheiro,Duque de Caxias
+555,2025-03-04,Erick Dias,Kit Festa Médio,Kits,2,180.0,Pix,São Gonçalo
+556,2025-05-06,Carolina Rodrigues,Torta de Limão,Tortas,1,40.0,Cartão,Nova Iguaçu
+557,2025-04-06,Diego Alves,Brigadeiro Gourmet,Doces,5,3.5,Dinheiro,Rio de Janeiro
+558,2025-03-06,Felipe da Conceição,Brownie,Doces,4,6.0,Cartão,Rio de Janeiro
+559,2025-01-16,Lavínia da Luz,Kit Festa Pequeno,Kits,4,120.0,Cartão,São Gonçalo
+560,2025-02-10,Davi da Luz,Bolo de Cenoura,Bolos,1,35.0,Pix,Nova Iguaçu
+561,2025-05-06,Luiz Miguel da Rosa,Bolo de Chocolate,Bolos,3,38.0,Pix,Duque de Caxias
+562,2025-02-14,Melissa Gonçalves,Kit Festa Médio,Kits,2,180.0,Dinheiro,Duque de Caxias
+563,2025-03-28,Maria Alice da Rosa,Torta de Limão,Tortas,2,40.0,Cartão,São Gonçalo
+564,2025-03-28,Pedro Gonçalves,Brownie,Doces,4,6.0,Dinheiro,São Gonçalo
+565,2025-01-18,Ryan Ribeiro,Brownie,Doces,1,6.0,Dinheiro,São Gonçalo
+566,2025-05-07,Catarina Jesus,Torta de Limão,Tortas,5,40.0,Dinheiro,Niterói
+567,2025-03-30,Levi Martins,Brownie,Doces,5,6.0,Dinheiro,Duque de Caxias
+568,2025-01-31,Bárbara Gomes,Kit Festa Pequeno,Kits,5,120.0,Pix,Rio de Janeiro
+569,2025-01-31,Rebeca Dias,Kit Festa Pequeno,Kits,1,120.0,Cartão,Niterói
+570,2025-02-01,Gabrielly Barros,Kit Festa Médio,Kits,3,180.0,Cartão,Rio de Janeiro
+571,2025-04-24,Luiz Fernando Jesus,Torta de Limão,Tortas,4,40.0,Cartão,Duque de Caxias
+572,2025-04-04,Valentina Martins,Torta de Limão,Tortas,3,40.0,Pix,Nova Iguaçu
+573,2025-02-04,Davi Nogueira,Bolo de Cenoura,Bolos,3,35.0,Dinheiro,São Gonçalo
+574,2025-03-04,Ana Sophia Correia,Brigadeiro Gourmet,Doces,1,3.5,Dinheiro,Rio de Janeiro
+575,2025-03-01,Marcela Rodrigues,Kit Festa Médio,Kits,3,180.0,Cartão,Duque de Caxias
+576,2025-03-21,Bárbara Gomes,Torta de Limão,Tortas,1,40.0,Dinheiro,São Gonçalo
+577,2025-04-16,Enzo Gabriel Ribeiro,Torta de Morango,Tortas,5,42.0,Cartão,Niterói
+578,2025-04-25,Maysa Melo,Brownie,Doces,4,6.0,Cartão,Duque de Caxias
+579,2025-05-14,Maria Sophia Ferreira,Torta de Morango,Tortas,4,42.0,Dinheiro,Nova Iguaçu
+580,2025-04-10,Ana Julia Souza,Kit Festa Médio,Kits,5,180.0,Dinheiro,Niterói
+581,2025-04-03,Mirella da Mata,Brigadeiro Gourmet,Doces,5,3.5,Cartão,Nova Iguaçu
+582,2025-03-28,Emanuel Pereira,Kit Festa Médio,Kits,5,180.0,Dinheiro,São Gonçalo
+583,2025-02-21,Laura Campos,Bolo de Chocolate,Bolos,5,38.0,Cartão,Rio de Janeiro
+584,2025-01-13,Rafaela Nascimento,Brigadeiro Gourmet,Doces,5,3.5,Dinheiro,Niterói
+585,2025-04-26,Guilherme Pereira,Brownie,Doces,3,6.0,Dinheiro,Duque de Caxias
+586,2025-02-28,João Felipe Souza,Bolo de Chocolate,Bolos,2,38.0,Dinheiro,Nova Iguaçu
+587,2025-04-25,Pedro Henrique Viana,Kit Festa Médio,Kits,1,180.0,Dinheiro,Duque de Caxias
+588,2025-04-04,Ana Júlia Cavalcanti,Bolo de Cenoura,Bolos,4,35.0,Cartão,Nova Iguaçu
+589,2025-01-21,Natália Sales,Kit Festa Pequeno,Kits,4,120.0,Dinheiro,Rio de Janeiro
+590,2025-03-24,Laura Lopes,Kit Festa Médio,Kits,3,180.0,Dinheiro,Rio de Janeiro
+591,2025-02-24,Helena Alves,Kit Festa Pequeno,Kits,3,120.0,Cartão,Niterói
+592,2025-01-15,Nina Gonçalves,Bolo de Chocolate,Bolos,1,38.0,Pix,São Gonçalo
+593,2025-04-22,Pedro Miguel Santos,Bolo de Chocolate,Bolos,5,38.0,Cartão,Rio de Janeiro
+594,2025-03-27,Evelyn Cavalcanti,Kit Festa Médio,Kits,1,180.0,Pix,Duque de Caxias
+595,2025-03-22,Luiz Henrique Sales,Brownie,Doces,2,6.0,Dinheiro,Duque de Caxias
+596,2025-02-19,Mariana Correia,Torta de Morango,Tortas,4,42.0,Pix,Duque de Caxias
+597,2025-05-06,João Felipe Pereira,Kit Festa Pequeno,Kits,1,120.0,Dinheiro,Nova Iguaçu
+598,2025-03-04,Anthony Lopes,Brownie,Doces,3,6.0,Cartão,Niterói
+599,2025-02-03,Lorena Silva,Kit Festa Pequeno,Kits,5,120.0,Cartão,Niterói
+600,2025-04-04,Eloah Moreira,Bolo de Cenoura,Bolos,1,35.0,Pix,Duque de Caxias
+601,2025-02-19,Joaquim Lopes,Kit Festa Pequeno,Kits,5,120.0,Pix,Niterói
+602,2025-01-18,Pedro Miguel Pires,Brigadeiro Gourmet,Doces,4,3.5,Pix,Niterói
+603,2025-02-28,Ana Vitória Santos,Torta de Limão,Tortas,2,40.0,Dinheiro,Rio de Janeiro
+604,2025-02-03,Vitor Gabriel da Cunha,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,Rio de Janeiro
+605,2025-02-15,Nicolas Rodrigues,Brigadeiro Gourmet,Doces,2,3.5,Cartão,Rio de Janeiro
+606,2025-05-08,Arthur Martins,Bolo de Cenoura,Bolos,4,35.0,Dinheiro,Rio de Janeiro
+607,2025-01-24,Daniela Campos,Brigadeiro Gourmet,Doces,1,3.5,Pix,Duque de Caxias
+608,2025-01-23,João Vitor das Neves,Brigadeiro Gourmet,Doces,5,3.5,Cartão,Rio de Janeiro
+609,2025-05-04,Bruno Rocha,Brownie,Doces,5,6.0,Pix,Niterói
+610,2025-03-29,Rafaela Gonçalves,Torta de Morango,Tortas,5,42.0,Dinheiro,São Gonçalo
+611,2025-03-30,Heitor Dias,Brigadeiro Gourmet,Doces,3,3.5,Cartão,Nova Iguaçu
+612,2025-03-28,Heitor Novaes,Brigadeiro Gourmet,Doces,4,3.5,Pix,São Gonçalo
+613,2025-01-16,Ana Sophia Gonçalves,Bolo de Cenoura,Bolos,5,35.0,Dinheiro,Niterói
+614,2025-03-08,Davi Luiz Novaes,Kit Festa Pequeno,Kits,5,120.0,Pix,Rio de Janeiro
+615,2025-02-25,Alexia Freitas,Torta de Morango,Tortas,4,42.0,Dinheiro,São Gonçalo
+616,2025-05-11,Renan Cardoso,Kit Festa Pequeno,Kits,4,120.0,Cartão,São Gonçalo
+617,2025-05-10,Lucca Caldeira,Kit Festa Pequeno,Kits,2,120.0,Dinheiro,Duque de Caxias
+618,2025-03-12,Isis Cardoso,Brigadeiro Gourmet,Doces,2,3.5,Pix,Niterói
+619,2025-01-13,Danilo Freitas,Kit Festa Médio,Kits,1,180.0,Dinheiro,Duque de Caxias
+620,2025-02-09,Gabriela Moura,Kit Festa Pequeno,Kits,5,120.0,Dinheiro,Niterói
+621,2025-01-18,Lorena Lopes,Kit Festa Pequeno,Kits,2,120.0,Pix,Niterói
+622,2025-01-26,Maria Alice Mendes,Torta de Morango,Tortas,1,42.0,Pix,São Gonçalo
+623,2025-05-13,Bruno Dias,Bolo de Chocolate,Bolos,5,38.0,Dinheiro,Niterói
+624,2025-02-11,Maria Clara Freitas,Bolo de Cenoura,Bolos,3,35.0,Pix,Nova Iguaçu
+625,2025-04-24,Marcelo da Costa,Bolo de Cenoura,Bolos,1,35.0,Cartão,Nova Iguaçu
+626,2025-04-13,Noah Gomes,Brigadeiro Gourmet,Doces,4,3.5,Cartão,São Gonçalo
+627,2025-05-03,Isabella da Rocha,Torta de Limão,Tortas,1,40.0,Cartão,Niterói
+628,2025-03-10,Isabel Jesus,Bolo de Chocolate,Bolos,4,38.0,Cartão,Nova Iguaçu
+629,2025-02-28,Melissa Rocha,Brigadeiro Gourmet,Doces,4,3.5,Cartão,Nova Iguaçu
+630,2025-03-18,Sofia Silveira,Torta de Morango,Tortas,3,42.0,Pix,Duque de Caxias
+631,2025-02-22,Emanuelly Cavalcanti,Torta de Morango,Tortas,3,42.0,Pix,São Gonçalo
+632,2025-01-27,Davi Lucca Aragão,Kit Festa Médio,Kits,4,180.0,Cartão,Duque de Caxias
+633,2025-04-05,Marina Correia,Torta de Morango,Tortas,2,42.0,Pix,São Gonçalo
+634,2025-05-08,Samuel Araújo,Kit Festa Pequeno,Kits,1,120.0,Dinheiro,Niterói
+635,2025-03-02,Beatriz Alves,Brownie,Doces,1,6.0,Pix,Nova Iguaçu
+636,2025-04-18,João Felipe Cavalcanti,Kit Festa Pequeno,Kits,3,120.0,Cartão,Niterói
+637,2025-01-19,João Miguel Cardoso,Torta de Morango,Tortas,2,42.0,Pix,Nova Iguaçu
+638,2025-02-26,Clara Sales,Brigadeiro Gourmet,Doces,4,3.5,Dinheiro,São Gonçalo
+639,2025-01-13,Isis Ferreira,Torta de Limão,Tortas,4,40.0,Dinheiro,Duque de Caxias
+640,2025-01-18,Bruna da Conceição,Kit Festa Médio,Kits,2,180.0,Dinheiro,São Gonçalo
+641,2025-02-01,Caio Fernandes,Brownie,Doces,2,6.0,Dinheiro,Nova Iguaçu
+642,2025-04-07,Levi Moreira,Kit Festa Médio,Kits,2,180.0,Dinheiro,Rio de Janeiro
+643,2025-04-19,Nina Mendes,Bolo de Cenoura,Bolos,1,35.0,Dinheiro,Rio de Janeiro
+644,2025-03-13,Enzo Barbosa,Bolo de Cenoura,Bolos,4,35.0,Cartão,Niterói
+645,2025-02-25,Larissa Moura,Bolo de Chocolate,Bolos,2,38.0,Cartão,Niterói
+646,2025-05-07,Alícia Ribeiro,Kit Festa Médio,Kits,3,180.0,Cartão,Nova Iguaçu
+647,2025-02-06,Gustavo Viana,Kit Festa Médio,Kits,4,180.0,Cartão,Rio de Janeiro
+648,2025-04-08,Maria Alice Alves,Kit Festa Pequeno,Kits,1,120.0,Cartão,Nova Iguaçu
+649,2025-01-22,João Miguel Novaes,Torta de Limão,Tortas,5,40.0,Pix,Rio de Janeiro
+650,2025-02-17,Thales Ribeiro,Kit Festa Pequeno,Kits,2,120.0,Cartão,Rio de Janeiro
