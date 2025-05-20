@@ -14,8 +14,6 @@ Este projeto analisa os dados de vendas de uma confeitaria online no ano de 2025
 2. Filtros por cidade para entender padrões regionais.
 3. Cálculo de médias mensais de vendas.
 
-As consultas utilizadas estão no arquivo [`scripts_analise_vendas_sql`](scripts_analise_vendas.sql).
-
 # Organização do projeto
 
 - `data_vendas_confeitaria_2025.csv` — Dados brutos.
